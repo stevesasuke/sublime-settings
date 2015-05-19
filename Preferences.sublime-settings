@@ -1,11 +1,12 @@
 {
 	"auto_complete_commit_on_tab": true,
-	"color_scheme": "Packages/RailsCasts Colour Scheme/RailsCastsColorScheme.tmTheme",
-	"font_size": 18,
+	"font_size": 13,
 	"ignored_packages":
 	[
+		"PHP",
 		"Vintage",
-		"PHP"
+		"JavaScript Completions",
+		"Git"
 	],
 	"line_padding_bottom": 5,
 	"line_padding_top": 5
